@@ -1,0 +1,6 @@
+name: DuelMe
+version: ${project.version}
+main: me.beerhuntor.duelme.DuelMe
+api-version: 1.13
+authors: [BeerHuntor]
+description: Dueling Plugin
